@@ -1,0 +1,49 @@
+Introductio. xvir
+
+In hac tabula, in qua nn' = p - 1, omnes numeri primi desunt, pro
+quibus n'= 1, 2, s, 0; desunt insuper numeri primi 0000-0-0, pro quibus
+η’ --6 atque numeri primi am «1-0, pro quibus η’ = 0, quos iam prae-
+cedentibus consideravi. Est rursus 11 numerus minimus, pro quo habeatur
+
+10⁸ 51 (mod. p),
+
+sive est 10 radix primitiva congruentiae x' 5 1, unde ponere lieet
+
+1⁰ ⁵3* (m0d· 0),
+
+designante g ipsius p radicem primitivam. si n impar est, fit congruen-
+tia 10· Ξ1 eadem atque (- 10)' 5 - 1, unde erit etiam n minimus nu-
+merus, pro quo habeatur (- 10)· Ξ - 1, sive erit etiam - 10 radix pri-
+mitiva congruentiae x· 5 -. 1. Unde, curn -1 potestati [ξ’-ω radicis
+primitivae congruum sit, ponere licet, si n impar est,
+
+r-¹ ¹,
+’Ξῖ ῖ”
+
+-1οΞ 5g' (mod. p),
+
+designante g‘ ipsius p radicem primitivam.
+Iam tabulam praecedentem seeundum valores ipsius η’ disponam
+
+hoc modo:
+
+10 Ξ g* mod. 109, 009, 1009, 1101, 0109
+- 10 Ξ g· mod. 01, 1609, 0001
+1ο 5g' mod. 11, 001, 1061, 1001, 1901, 1901, 1901, 0011, 0001
+- 10 Ξ g' mod. 1001
+1οΞ g⁶ mod. 901, 1001, 1001, 1009, 1009, 1091, 0000
+- 10 Ξ g⁶ mod. 01, 010, 100
+1ο 5 g⁷ mod. 011, 611, 1099, 0001
+10 Ξ g⁸ mod. 001, 1001
+10 Ξ g⁹ mod. 10, 1000, 1009, 0011
+- 10 Ξ g⁹ mod. 0001
+10 Ξ g¹⁰ mod. 001, 001, 0001
+10 Ξ g¹¹ (mod. 000), - 10 Ξ g¹² (mod. 1001), 10 5 g¹⁸ (mod. 0090)
+10 Ξ g¹⁴ (modiis, 1009), - 10 5 ς’* (mod. 101)
+·· '⁶ mod. 101), - 10 Ξ g¹⁶ (mod. 1001), 10 Ξ g¹⁶ (mod. 1009)
+
+Ξ {mod 000), 10 53²⁰ (mod. 601), 10 5g⁹‘ (mod. 101)
+[9]
+
+ 
+

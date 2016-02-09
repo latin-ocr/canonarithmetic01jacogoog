@@ -1,0 +1,46 @@
+Introductio. mm
+
+dedi, utiis usui esse possit, quibus sorte mens est, huic operi adiicere tabu·
+las pro numeris primis inter 1000 et 2500. Quas si quis vel pro omnibus
+numeris primis inira 10000 construere susciperet, non tantus soret labor, sed
+obstaret publicationi ambitus operis. Cui incommodo exparte aliqua ob-
+venitur, si tabulas similes condis earum quas pro numeris primis infra 100
+ill. Gauss in Disquisitionibus Aritltmeticis dedit. Quae tabulae pro singu·
+lis modulis primis exhibent solorum numerorum primorum, modulis in·
+seriorum, indices; quippe e quibus cuiuslibet dati numeri indicem simpli-
+cibus additionibus eruis. Quo compendio tabulaeII ad multo minorem
+ambitum reducuntur, tabulaeI autem omnino nou conduntur. Eiusmodi
+tabulae, licet minus commodae, ad multos tamur usus sufficiunt, ex. gr.
+si explorandum proponitur, an datus numerus sit numeri primi residuum
+cubicum, biquadraticum cet. Cum eo consilio tabulaeI omnino non con-
+struantur, addam methodum expeditam, qua tabulam indicum immediate
+conficere licet, siquidem radix primitiva cognita est.
+
+’ Sit a radix primitiva formenturque utsupra iuxta positae columnae I
+et Π, quarum I est series numerorum naturalium atque Π eorum 0⁸⁸⁹¹⁰ffl⁸
+residua minima positiva suppeditat. Vocemus α, residuum minimum positi-
+vum ipsius an,- ita ut apud numerum n columnaeI inveniatur in columna Π
+
+numerus a„ Formetur iam columna ΠΙ α zero incipiens et secundum ,
+
+banc legem continuata, ut iuxta positis in coll. I, Π, ΠΙ numerian, a‚,m
+scribatur numerus proxime maior ττι-Η in columna ΠΙ iuxta columnael
+numerum 0„ Hac ratione numeri 0, 1, 2. . .p-a locis praescriptis colum·
+nac ΙΠ inscribantur, eruntque illi numeri indices numerorum iuxta posi·
+torum columnaeI. Ac fortasse expeditissimum erit, bac ratione tabulas ,
+residuorum et tabulas indicum a se independenter construere, neque has
+ex illis formare, uti supra proposui. Nam ista, qua opus erat, eommu-
+tatio valorum tabularium in argumenta et argumentorum in valores tabu-
+lares perquam molesta est et molestissima correctio lapsuum calami qui
+ea in re vix evitantur. Ceterum etiam nulla cognita radice primitiva me·
+tbodus praecedens applicari potest, factis, quae e supra traditis sine negotio
+se offerunt, mutationibus.
+
+Ad finem adieci tabulas ad modulos pertinentes ipso 1000 inferiores,
+qui numerorum primorum potestates sunt. Designante enim n numerum
+primum imparem, notum est, etiam respectu moduli η’· residua omnia
+
+[e]
+
+ 
+

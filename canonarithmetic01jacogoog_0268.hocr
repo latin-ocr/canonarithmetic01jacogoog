@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./canonarithmetic01jacogoog_0268.png"; bbox 0 0 4432 5700; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 312 1668 1894 2248">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 312 1668 1894 2248">
+     <span class='ocr_line' id='line_1_1' title="bbox 312 1668 1892 1777; baseline 0.001 -11"><span class='ocrx_word' id='word_1_1' title='bbox 312 1668 577 1767; x_wconf 81' lang='lat' dir='ltr'><strong>TABULAE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 628 1678 1012 1768; x_wconf 83' lang='lat' dir='ltr'>RESIDUORUM</span> <span class='ocrx_word' id='word_1_3' title='bbox 1067 1676 1140 1766; x_wconf 82' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1193 1676 1461 1777; x_wconf 83' lang='lat' dir='ltr'><strong>INDICUM‚</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1524 1678 1632 1765; x_wconf 83' lang='lat' dir='ltr'>SIBI</span> <span class='ocrx_word' id='word_1_6' title='bbox 1682 1678 1892 1767; x_wconf 88' lang='lat' dir='ltr'>MUTUO</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 313 1837 1894 1952; baseline 0.001 -25"><span class='ocrx_word' id='word_1_7' title='bbox 313 1839 819 1940; x_wconf 86' lang='lat' dir='ltr'>RESPONDENTIUM,</span> <span class='ocrx_word' id='word_1_8' title='bbox 873 1837 988 1927; x_wconf 89' lang='lat' dir='ltr'><strong>PRO</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1043 1838 1303 1927; x_wconf 86' lang='lat' dir='ltr'>MODULIS</span> <span class='ocrx_word' id='word_1_10' title='bbox 1356 1837 1674 1927; x_wconf 87' lang='lat' dir='ltr'>MINORIBUS</span> <span class='ocrx_word' id='word_1_11' title='bbox 1726 1838 1894 1952; x_wconf 80' lang='lat' dir='ltr'><strong>QUAM</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 468 1997 1735 2112; baseline -0.004 -20"><span class='ocrx_word' id='word_1_12' title='bbox 468 2002 596 2101; x_wconf 87' lang='grc'><strong>1000,</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 650 1998 753 2112; x_wconf 87' lang='lat' dir='ltr'><strong>QUI</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 803 1999 954 2089; x_wconf 79' lang='lat' dir='ltr'>SUNT</span> <span class='ocrx_word' id='word_1_15' title='bbox 1001 1997 1373 2088; x_wconf 84' lang='lat' dir='ltr'>NUMERORUM</span> <span class='ocrx_word' id='word_1_16' title='bbox 1424 1998 1735 2088; x_wconf 85' lang='lat' dir='ltr'>PRIMORUM</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 925 2153 1283 2248; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 925 2153 1283 2248; x_wconf 82' lang='lat' dir='ltr'><strong>DIGNITATES.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 985 2564 1218 2591">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 985 2564 1218 2591">
+     <span class='ocr_line' id='line_1_5' title="bbox 985 2564 1218 2591; baseline 0 0"><span class='ocrx_word' id='word_1_18' title='bbox 985 2564 1218 2591; x_wconf 57' lang='lat' dir='ltr'><strong>mmm</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2220 5700">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2220 5700">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 2220 5700; baseline 0 0"><span class='ocrx_word' id='word_1_19' title='bbox 0 0 2220 5700; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

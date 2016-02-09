@@ -1,0 +1,43 @@
+Introductio. ι xxm
+
+mitivam, revertar ad regulas, quibus tabularum propositarum constru-
+ctio perficiatur, postquam pro dato ipsius a valore columnael et Π
+formatae sunt. Et primum formata columna A, quae suppeditat resi·
+dua minima positiva potestatum o, α’ .. a', quorum postremum est 1, in·
+scribantur residua 1111 tabulael iis loeis, qui respondent argumentis η’,
+111 p- 1. Quae residua si per r,1,r2„·,'.. r„, denotamus, vice versa
+inscribantur numeri η’, sn', sn' .. p-1 tabulae Π iis locis qui respondent
+argumentis r,2, r2,·, r3,0,..r,-1. Ita impleti erunt tabulseII loci omnes
+respondentes argumentis, quae, congrua sunt potestati radicis primitivae,
+cuius exponens per η’ divisibilis est. Si habetur n = p- 1, quem casum
+antecedentibus consideravi, fit η’ --1 omnesque tabulae H loci impleti ν
+erunt. Si non 111111111ηερ-1, sith argumentum tabulae Π, cui lo·
+cus vacuus respondet. Qui numerus d evadit minimus, si eligis argu·
+mentum primum tabulae Π, cui locus tabulae adhuc vacuus respondet.
+Sit b·.··-·. g', agitur de inveniendo indice m seu potius uno ex valoribus
+quos induere potest. Qui index erit per η’ non divisibilis, cum ex hy·
+pothesi numerorum-td, 111, .. p-1 tabulaeII inscriptorum nullus ad ar·
+gumentum d pertines*
+
+Quaerantur residua potestatum 111, 6³, .. ., usque dum perveniatur
+ad potestatem ds ‚ quae sit infima, cuius residuo ut argumento tabulae 11
+spectato respondeat locus tabulae iam numero impletus. Numerus f sem·
+per est aut η’ 111 factor ipsius η’. 0111111ΝΞ g's , erit etiam f nu·
+merus minimus, per quem m multiplicatus producat numerum per η’ di·
+visibilem. Sit hic numerus in', habetur
+
+ds Ξ 3¹⁸⁹ (mod. p).
+
+In hae congruentia noti sunt numeri d et f et 111, quorum postremus
+
+11111111 1 tabula Π, 11 qua respondet residuo ipsius bs ut argumento.
+Posito η’ ..-. ss', 111 baffi (mod p)
+
+unde e sequentibus numeris eligendus erit ipsius m valor,
+m=if2 (111118 (meust ··(1·†(f-¹)n)f'·
+
+Ε quibus reiicieudi sunt numeri (i÷lcn)f', in quibus i÷kn cum f fa·
+ctorem communem habet. Si enim
+
+ 
+

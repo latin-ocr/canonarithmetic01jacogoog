@@ -1,0 +1,46 @@
+Introductio. mv
+
+psius n. Unde habentur ex antecedentibus etiam radices primitivae reli·
+quorum modulorum
+
+³³2 3⁴, 3⁸, ³⁶2 5⁸, ⁵⁴2 7³²
+pro quibus nobis tabulae construendae sunt.
+
+Propositio allata, radicem ipsius η’ primitivam quamcunque cuius·
+libet etism altioris potestatis ipsius n radicem primitivam esse, sic probatur.
+Est α radix primitiva ipsius nl, si nulla potestas ipsius a inferior quam
+n“·¹(n-1)¹¹ per η’· divisa residuum ÷1 relinquit. Quod facile probatur
+locum habere, si α sit radix primitiva ipsius η neque ipsius α potestas
+η“·’ (n-1)‘¹ per η’· divisa residuum s relinquat. Posito autem
+
+a⁸‘¹ :.-=1÷fn(mod.n²),
+
+erit f numerus per η nun divisibilis‚' quoties numerus a est ipsius η’ ra·
+dix primitiva. Unde sequitur, numerum
+
+d 'unul' μ
+
+per η’* divisum non relinquere residuum -1- 1, q. d. e.
+
+Potestate binomii ulterius evoluta, omnes terminos tertium inse·
+quentes per η’· divisibiles evadere, uti ipsum tertium, sic constat. Sit
+12⁶ potestas summa numeri primi n, per quam divisibile sit productum
+1.2.s...A, ac sit A sive ipsi n· aequalis sive inter n· et n'*¹; invenitur
+
+a=(-:->÷(÷2->÷e>÷m-÷e-t
+
+siquidem (ᾖ) est numerus integer ipsi ᾖ aequalis sive, quoties ᾖ est
+fractio, ipso {proxime minor. Unde erit ,
+
+a<÷{1÷}÷-n¹,-÷etc.ininfin.}
+
+sive
+
+Sit ηβ summa potestas ipsius n per quam productum
+
+vv-du-dmmu-A40
+
+dividi possit, erit numerus integer
+
+ 
+

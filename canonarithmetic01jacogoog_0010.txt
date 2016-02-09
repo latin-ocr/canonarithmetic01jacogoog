@@ -1,0 +1,46 @@
+INTRODUCTIO.
+
+Egregio operi Burckltardiano Parisiis a. 1817 edito, cui inscriptum estz
+
+„Tahle des Diviseurs pour tous les nombres depuis
+1 ὰ 3036000”
+
+inserta invenitur tabula, in qua pro omnibus numeris primisp inde a 2
+usque ad 1513 et deinde adhuc pro nonnullis aliis numeris primis'assigna·
+tur magnitudo periodi fractionis decimalis, in quam ipsa ᾗ evolvi potest.
+Quam tabulam propter insignem eius usum hic totam appono.
+
+Grandenr de ln' plriode de la fraction dicimale &gale ὰ 'is'
+
+Valeur Grand. Valeur Grand. Valeur fiand. Valeur Grand.
+dep dela Per. dep de laper. de p dela Ρέτ. dep de la 1³61.
+
+73 179 178 283 111
+79 181 180 293 106
+83 191 95 307 153
+89 193 192 311 155
+97 197 313 312
+
+101 199 317 79
+103 211 331 110
+107 223 337 336
+109 227 307 173
+113 229 319 116
+
+127 233 32
+131 239
+137 211
+139 251
+119 257
+
+151 263
+157
+163
+167
+
+ 
+
+ 
+
+ 
+

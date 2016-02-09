@@ -1,0 +1,45 @@
+Introductto. xv
+
+bus aut duabus radicibus congruentiae ω’ Ξ ιο, quae ut radices primi·
+tinae locum tenere possunt ipsius g sive basis tabulae.
+
+Invento ipsius m valore rursus per continuum transitum ex altera co-
+lumnarumI etII ad alteram statim habentur ipsarum 3⁸4³, 3⁸4⁶, eet. Γ
+residua, ubi rursus loco ς’ sive gf41 scriptumest gsive ς’. Quae residua
+constituunt secundam classem. Si m Ξ 1 (mods), in hac classe basis tabulae
+invenitur g3 cuius quadratae residuum suppeditat numerum ad indicem 2 per·
+sinentem, de quo deducuntur ope coll. Iet Π numeri ad indices 5, s ...p -a
+pertinentes sive residua potestatum 3⁶, ς’ .. gffl. Quae constituunt resi-
+duorum tertiam classem, iamque residua omnium potestatum radicis pri·
+mitivae inventa sunt. Si p-1 per 9 non divisibilis est, semper suppo·
+nere licet m·.÷1 (mod. s), nam e duobus ipsius m valoribus alter erit
+·=·-t-1 alter Ξ -1 (mod. s). Si vero p-1 per 9 divisibilis est, erunt
+tres ipsius m valores β, [3 -ι- Εζὲ, β -t- 3931) respectu moduli s inter se
+· congrui. Quo casu si evenit ut habeatur m .=.2 (mod. s), non invenitur
+ipsa basis g sed ipsius ς’ residuum in secunda classi residuorum; in ea·
+dem classi curn etiam inveniatur residuum ipsius g'·², utroque multipli-
+cato invenitur ipsius gr residuum sive basis g. E qua deinde deducitur
+ope coll.I et Π tertia classis residua potestatum g, g* .. g'·³ continens.
+
+Numerus d cum semper valde exiguus accipi possit, ipse d' sine ullo
+negotio invenitur3 computus peragendus - si computum dicereris -
+unice consistit in quadrando residuo ant multiplicatione duorum residuo·
+rum et quaerendo quadrati aut producti residuo.
+
+Pro p=1os ex. gr. est 2 minimus numerus qui in classi prima non
+invenitur, unde d¹ = s; porro fit 33:36, {3:12, {34-34 = tt, βψ 68
+= 703 eligatur valor m = lt, qui est Ξι (mod. s), in classe secunda, de
+hoc ipsiusne valore deducta, invenitur g: 6, unde g‘ = 36.
+
+Pro p=1ar est ρ- ι per 9 divisibilis3 eo casu fir b=s minimus
+numerus qui in classe prima non invenitur, unde b¹ = 273 porro fit ³ss
+:69, m=fi = es, qui numerus est 32 (mod. s); in classe 'secundm de
+hoc valore ipsius m deducta, reperitur ς’ Ξ ro simulque invenitur 3²⁴ Ξ
+3¹²⁶ Ξ 73 residuum producti 7 >< 70 = t90 est 109, quae est basis tabulae g,
+de qua inventa deducitur tertia classis.
+
+Si immediate, simulac ipsius m valor inventus est, quaeriturg
+sive ς’, multiplicetur, si ηιΞι (mod. s), numerus b per residuum po-
+
+ 
+

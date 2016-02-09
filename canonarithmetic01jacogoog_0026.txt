@@ -1,0 +1,42 @@
+Introductis xix
+
+pro numero primo p typotheta in cistis suis fixas habeat duas columnasI
+et Π, quales imprimi debent, utramque verticalem et alteram iuxta alteram
+positam, vel etiam, si melius convenit, utramque horizontalem, ita ut iu·
+fra quemlibet numerum columnaeI sit numerus respondens columnae 11.
+His columnis impressis, ut obtineantur columnae pertinentes ad numerum
+primum proximum p-t- eA, ubi Δ plerumque valde parvus est, dirimat
+typotheta columnamII in duas partes, quarum primae, typis 2, l, .. p-t
+constanti, addat typos p÷1, p-t-s, .. p42A-13 secundae, typis i,
+s, .. p—2 constanti, typos p, p-t-e, .. p-t-A-23 denique columnaeI
+addat typos p, p-t-s, p-t-e, .. p-t-A-t. Iunctis rursus columnaeII
+partibus, typi imprimantur, ac deinde simili modo pergat typotheta ad
+formandas coll.I et Π, ad numerum primum proxime maiorem pertinen·
+tes, rursus paucos typos adiungendo in fine columnae Ι, in fine et medio
+columnae Π. Si columnae Π decrescentes formandae sunt, columnae H
+addendi sunt ab initio typi p-t-A-s, p-t-A-t, .. p eique inter typos
+1 et p-s inserendi typi p-t-A-r, p-t-A-s, .. p-t-13 denique rursus
+columnaI ad finem adiungendi typi p, p-t-1,.. p-t-A-t. Simili modo
+agendum est pro dato alio quocunque numero a, si a numero primo p
+ad numerum primum p-t-aA pergis, videlicet in columnaII singulis a
+locis diversis Δ typi addendi sunt, atque columnaeI ad finem totidem ad-
+iiciendi typi p, p-t-t, p÷e .. p-t-aA-t. Sic columnae formantur
+aliae post alias pro omnibus numeris primis, qui per a divisi idem resi·
+duum relinquunt3 unde negotium in tot dividitur, quot sunt residua mi·
+nima quae numeri primi per a divisi relinquunt, quorum idem est nu·
+merus atque numerorum ipso a minorum et ad a primorum. Pro sinss
+gulis incipiendum est a numero primo minimo e propositis qui per a di·
+visus datum residuum relinquat. Poterit etiam a numero primo, proquo
+iam formatae sunt columnae, ad alium pergi, qui ab eo non differt mul·
+tiplo ipsius α, si praeter addendos typos singulae columnaeII partes a
+typotheta inter se commutantur, quod sine magno negotio efficitur.
+Columnisl et Π pro dato numero primo p quocunque modo for·
+matis et iuxta positis, formetur columna A secamdum hanc regulam, ut
+sumto numero columnaeA in columnal sit iuxta positus in columna Π
+numerus columnaeA proxime insequens. Hinc si columnam formandam
+inchoamus a numero α, ex ordine ea continebit residua potestatum ipsius
+
+[θ’]
+
+ 
+

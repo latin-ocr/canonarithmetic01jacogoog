@@ -1,0 +1,42 @@
+mn Introductis.
+
+⁵ - 33 Ξ g²² (mod. 272), 33 Ξ 3²³ (mod. 333), 33 Ξ g·· (mod. isco)
+- so Ξ g‘⁴ (mod. 1933), 33 Ξ g'¹ (modestis).
+
+Non ego pro singulis istis exponentibus ipsius g sen mdzeibue, qui nn·
+mero ÷ io aut - 33 respondent, regulas particulares condam, sed iam
+tradam methodum generalem, qua commodissime tabulae constnsantur,
+quibus pro quolibet dato modulo primo p numeri omnes 3, 2, 3 .. p-r
+exhibentur nt diversarum numen‘ alicttins potestatum residua. Qui nume-
+rus vocatur bast's tabulae.
+
+Mcthodus generales pro modulo prim p numeros t,2,s .. p-¹ erlebardi
+ut domem mana-i aduena potestmm residua
+
+Sumatur ex arbitrio numerus pars-us, facile addendus, ut 2, 3 cet.
+331 33 331 qui alins placet, positivus o 331 etiam negativus - α. For-
+metur cohemnol numerorum naturalium 3, 3, 3 ..p - 3. Deinde iuxta
+ponatur, si positivus electus est numerus α, columna 11 numerorum α, ra,
+sa cet, qui ab ipso a incipiunt et continuo ipso α augentur, detracto p,
+simulac numerus ultra p crescit. Si electus est numerus negativus a, lor·
+metur oollI, quamdecrescentcm voco, numerorump-o, p-eo, ρ-3α,..
+qui ab ipso p- a incipiunt et continuo ipso α diminutmtur, addito p,
+simulac ad numerum negativum pervenitur. Nisi contrarium adnotetur,
+subintelligam, numerum positivum electum esse ideoque columnam Π esse
+mesconem: negativo numero electo, columnam Π decrescentem forman-
+dam csse, pressis 3331313 adiiciam. Si σεε, semel tantum ipse p in lor·
+manda col. 11 detrahendus 331 addendus erit, si α--3, bis etc. Formatis
+columnis 1 et II, invenitur iuxta quodlibet argumentosum 3, e, 3 .. p- 3,
+Ν eius residuum minimum positivum. si a = 3, inveniuntur iuxta
+3, s .. ssnumeriparese, l..p-1; iuxta 'l-J‘l, [ξ’ .. p-¹ numeri im·
+pares 1, 3 .. ρ-3. Ac generaliter constabit columna Π ex a seriebus
+arithmeticis 3133 crescentibus 3133 decrescentibus, in quibus singulis est
+eadem differentia ζα atque primus terminus inter o et α-ι- 3, postremus
+inter p-a-t et p positus est vel sice versa.
+
+Si pro numero satis magno salomm ipsius p etmdem refines nu·
+merum a, convenit columnarumI et Π formationem (spes exequi. Quod
+quomodo commode fiat, exemplo simplicissimo illustrabo. Sit (ιτ-3, ac
+
+ 
+

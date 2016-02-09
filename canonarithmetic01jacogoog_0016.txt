@@ -1,0 +1,47 @@
+Introductis. 11
+
+medentia idem est atque evolutionis ipsius pin fractionem decimalem,
+eo tantum discrimine, ut in hoc negotio reiiciantur residua, retineantur
+quotientes, in illo retineantur residua, reiiciantur quotientes. Potest in
+’ negotio illo etiam ea multiplicatione supersederi, quam divisio per p pos·
+cit; nam‘cnm quotientes omnes sint minores ipso 10, tantum opus est, ut
+multipla ipsius p per 1, 2, s 9 formentur, quorum numerorum proxime
+inferior a dividendo detrahatur, ut obtineatur residuum quaesitum. Unde
+totum negotium inveniendi residui potestatis proxime altioris ad unam sub·
+tractionem reducitur. Neque opus est, ut animum attendas, ad quemnam
+factorum t, 2, s 9 pertineat numerus detrahendus, quia in his calculis
+quotientes omnino non curamus.
+
+Nihilo tamen minus hunc calculi processum ego non secutus sum, .
+
+sed alium praetuli, in quo etiam subtractione supersedemus et omni om·
+nino calculo. Scribantur enimin Columna Prima omnes numeri ordine
+suo naturali inde a 1 usquead p-13 iuxta quos ponantur in Columna
+Secunda numeri so, to, so, to cet, qui usque eo continuentur, dum per·
+venias ad numerum ipso p maiorem, in cuius locum, proutp est formae
+soma-1, s, s, t, 9, ponatur 9, t, s, s, 1, ac deinde pergendum est'iterata
+eiusdem numeri 10 additione, usque dum rursus pervenis ad numerum ipso
+p maiorem, in cuius locum rursus ponenda sunt illae aliquae unitates,
+quibus numerus ipsum p superat, et deinde mrsus pergendum erit conti-
+nua ipsius 10 additione, semper quoties ad numerum ipso p maiorem per·
+venis ipsius p detractione facta. Quae eousque continuanda sunt usque
+dum ad numerum p- to pervenias. Hac ratione altera columna et ipsa
+continebit omnes p-1 numeros s, s,s .. p-s ita dispositos, ut iuxta
+quemlibet numerum lc columnaeI inueniatur in columnalI residuum nu·
+meri tole perp divisi. Utraque columna eadem celeritate atque facilitate
+
+formatur atque in numeris ordine naturali scribendis calamus currere va· ·
+
+let. Neque ullo calculo post has columnas formatas opus est. Ε dato
+enim potestatis residuo r habes proxime altioris sumendo in Col. Π nu-
+merum iuxta numerum r Columnael positum. Quoties igitur so ipsius
+p radix primitiva est, nihil restat, nisi ut residua potestatum successivamm
+ipsius to, hae ratione alia post alia inventa, tabulae inscribantur.
+
+Si -to radix primitiva est, nibil mutabitur, nisi quod Col.Ha -
+numero p- ιο ordiri debet eiusque numeri eodem numero 10 continuo
+
+[u]
+
+ 
+

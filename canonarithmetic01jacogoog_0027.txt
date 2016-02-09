@@ -1,0 +1,43 @@
+xx Introductio.
+
+a primae, secundae, tertiae cet. Columna eo usque continuanda est,
+dum ad nudatam perveniatur3 quae si 71⁸¹· numerus columnae est, notum
+est esse n factorem ipsius p- 1, simulque erit n numerus nmrimus, pro
+quo habeatur a* Ξ1 (mod. p), sive erit a radix primitiva congruentiae
+ω· Ξ1 (modp). Unde sequitur, posito η’ = Ρ-ηἶὲ ac denotante g radi-
+cem primitivam congruentiae ΞΜ zo (mod. p), fieri g radicem proraitiram
+ipsius p. Quae simul accipi poterit pro bosi tabulae.
+
+Saepe eveniet, ut habeatur n = p - 1, sive ut sit a ipsa radix pri·
+mitiva, quae pro basi tabulae g accipiatur. Eo casu columna A ipsam
+tabulaml suppeditat sive tabulam numerorum, inqua inveniuntur residua
+omnium radicis primitivae potestatum, primae, sectmdae, tertiae usque ad
+(p-1)‘·¹', cuius residuum ipsi unitati aequale fit. Argumenta huius ta·
+bulae sunt exponentes seu indices 1, a, s ..p- r, sive erit numerus tabu·
+lae r, argumento i respondens talis ut habeatur
+
+g‘ Ξ r, (mod. p).
+
+Numeri r, omnes inter se diversi sunt, unde in tabula inveniri debent
+omnes numeri 1, 2 .. p-1 neque idem bis.
+
+Deinde, ut pro quolibet dato residuo statim etiam vice versa ha·
+beatur indae sive exponens potestatis, ipsi residuo congruae, formetur ta-
+bula 11 sive tabula indicum, cuius argumenta sint numeri 1, a, s p- 1,
+et cui inscribantur iidem numeri 1, 2 ..p-1 iis locis, qui respective ar-
+gumentis Ur„ r, .. νβ, respondent. Itaque in tab.I pro 1111111ἰό111 argu·
+mentis inveniuntur residua, in tab. Π pro residuas argumentis inveniuntur
+udices. Tabulae Π formatio simul verificationem egregiam tabulaeI osfert3
+nam siper calami lapsum tabulaeI numerus erroneus inscriptus est, idem
+numerus in tabula illa bis adest, unde obveniunt duo numeri diversi ei-
+dem loco tabulae Π inscribendi. Sit ex. gr. in tab.I pro argumentis ἰ
+et 1 idem numerus scriptus sive per errorem factus r, = r, ; inscripto nu·
+mero ι· in eum locum tabulaeII qui argumento r, respondet, si numerum
+lc inscribere vis in locum argumento r, respondentem, iam eum locum oc·
+cupatum invenies.
+
+Paucis attingam probabiliorem, numerum ex arbitrio sumtum esse
+dati numeri primi radicem primitivam. Sunt numeri primi p totidem ra·
+
+ 
+

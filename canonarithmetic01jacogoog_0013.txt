@@ -1,0 +1,50 @@
+vr Imroductz'o.
+
+Numeri n, periodi magnitudinem indicantes, qui in hac tabula iuxta ipsos
+numeros primos p inveniuntur, sunt numeri minimi, pro quibus fit
+
+10⁸-1
+
+per numerum primum p divisibilis. Pro omnibus igitur ipsius p valori-
+bus, pro quibus valor ipsius n est p - 1, habetur 10 ipsius p rades pri·
+matiam Est igitur secundum tabulam Burclclaardianam numerus to radix
+primitiva numerorum primorum sequentium:
+
+1. Numeri primi, quorum 10 radix primativa est.
+
+7. 17. 19. 23. 29. tt. 59. 61. 97. . .
+mmmmmmmwm...
+ΜΜΜΜΜΜΜΜΜΗΗΗΗΗΗ . .
+mmmfflmmmmm. .
+msmdmmnwumff.„„„.„n . .
+mmmfflmmmmwuumunu . .
+mma ....................... .
+mmm. .................... .
+mmm.m.mmwmm. .
+mmmmm η... .
+ΜΜΜΜΜΜΜΜΜ ..
+ΜΜΜΜΜΜΜ ..„.s.
+ΜΜΜ.ΜΜΜΜΜΜ7 .
+ΜΜΜΜΜΜ 5
+ΜΜΜΜ umfflt
+ΜΜΜΜΜ.ΜΜΜ a
+wwmfflfflw ,Ηωε
+mmmmmmfflmffls .
+mmmmwmmmffls .
+mmwwmmmmmt .
+mmmmmmfflwms .
+mmmmmmfflwms .
+mmmmmmmmms .
+mmmmmmwmms .
+mmmmmmmwfflt .
+wmmn
+
+Adscripai pro singulis centenis numerum numerorum primorum, quorum
+10 radix primitiva est, et numerum totum numerorum primorum, reiectis
+1, s, s. Patet er hoc conspectu, praeter 1, s, ⁵ dari 36⁵ numeros primos
+usquead 2⁵00 atque intereos haberi tis, quorum 10 sit radix primitiva.
+In construendis tabulis, quibus pro singuiis numeris primis numeri
+omnes positivi inferiores repraesentantur ut residua ex divisione potestatum
+
+ 
+
